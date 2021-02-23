@@ -1,0 +1,11 @@
+20200313
+
+ - Change: Log now displays OS version
+
+20200229
+
+ - Change: Add rule for healthcheck tracertoute as it was unrecognised outgoing traffic... i.e allowed, but logged. This was spamming logs, so it's now specifically allowed to avoid this.
+
+20200222
+
+ - Change: Healthcheck now a bit more specific about the adapter it uses to check the tunnel and tunnel's gateway
