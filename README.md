@@ -22,3 +22,5 @@ A single named volume, or bind mount to a drectory on the host, is required and 
 ## IPTABLES CONFIGURATION
 
 Currently the container will create a default iptables configuration each time the container is launched.
+
+Litecoin: LfmogjcqJXHnvqGLTYri5M8BofqqXQttk4

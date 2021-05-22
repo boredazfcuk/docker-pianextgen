@@ -2,7 +2,7 @@ FROM alpine:3.13
 MAINTAINER boredazfcuk
 
 # Container version serves no real purpose. Increment to force a container rebuild.
-ARG container_version="1.0.0"
+ARG container_version="1.0.1"
 ARG app_dependencies="openvpn curl jq openvpn conntrack-tools ulogd coreutils"
 ENV config_dir="/config" \
    app_base_dir="/PIANextGen"
