@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.14
 MAINTAINER boredazfcuk
 
 # Container version serves no real purpose. Increment to force a container rebuild.
